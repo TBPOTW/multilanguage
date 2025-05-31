@@ -15,6 +15,10 @@
         {
             "key" : "CREDITS",
             "value" : "ТИТРЫ"
+        },
+        {
+            "key" : "QUIT",
+            "value" : "ВЫХОД"
         }
     ]
 }
