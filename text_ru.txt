@@ -1,0 +1,20 @@
+{
+    "items" : [
+        {
+            "key" : "NEW_GAME",
+            "value" : "НОВАЯ ИГРА"
+        },
+        {
+            "key" : "CONTINUE",
+            "value" : "ПРОДОЛЖИТЬ"
+        },
+        {
+            "key" : "SETTINGS",
+            "value" : "НАСТРОЙКИ"
+        },
+        {
+            "key" : "CREDITS",
+            "value" : "ТИТРЫ"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "items" : [
+        {
+            "key" : "NEW_GAME",
+            "value" : "NEW GAME"
+        },
+        {
+            "key" : "CONTINUE",
+            "value" : "CONTINUE"
+        },
+        {
+            "key" : "SETTINGS",
+            "value" : "SETTINGS"
+        },
+        {
+            "key" : "CREDITS",
+            "value" : "CREDITS"
+        }
+    ]
+}
