@@ -31,6 +31,26 @@
         {
             "key" : "MAIN_MENU",
             "value" : "ГЛАВНОЕ МЕНЮ"
+        },
+        {
+            "key" : "LOADING",
+            "value" : "ЗАГРУЗКА"
+        },
+        {
+            "key" : "YES",
+            "value" : "ДА"
+        },
+        {
+            "key" : "NO",
+            "value" : "НЕТ"
+        },
+        {
+            "key" : "SPACE_CONTINUE",
+            "value" : "Нажмите 'Пробел' чтобы продолжить"
+        },
+        {
+            "key" : "Q_DROP",
+            "value" : "Нажмите 'Й' чтобы бросить"
         }
     ]
 }

@@ -31,6 +31,26 @@
         {
             "key" : "MAIN_MENU",
             "value" : "MAIN MENU"
+        },
+        {
+            "key" : "LOADING",
+            "value" : "LOADING"
+        },
+        {
+            "key" : "YES",
+            "value" : "YES"
+        },
+        {
+            "key" : "NO",
+            "value" : "NO"
+        },
+        {
+            "key" : "SPACE_CONTINUE",
+            "value" : "Press 'Space' to continue"
+        },
+        {
+            "key" : "Q_DROP",
+            "value" : "Press 'Q' to drop"
         }
     ]
 }
