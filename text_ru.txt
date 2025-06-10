@@ -19,6 +19,18 @@
         {
             "key" : "QUIT",
             "value" : "ВЫХОД"
+        },
+        {
+            "key" : "RESUME",
+            "value" : "ПРОДОЛЖИТЬ"
+        },
+        {
+            "key" : "RESTART_DAY",
+            "value" : "ЗАПУСТИТЬ ДЕНЬ ЗАНОВО"
+        },
+        {
+            "key" : "MAIN_MENU",
+            "value" : "ГЛАВНОЕ МЕНЮ"
         }
     ]
 }

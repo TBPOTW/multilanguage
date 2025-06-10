@@ -19,6 +19,18 @@
         {
             "key" : "QUIT",
             "value" : "QUIT"
+        },
+        {
+            "key" : "RESUME",
+            "value" : "RESUME"
+        },
+        {
+            "key" : "RESTART_DAY",
+            "value" : "RESTART DAY"
+        },
+        {
+            "key" : "MAIN_MENU",
+            "value" : "MAIN MENU"
         }
     ]
 }
