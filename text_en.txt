@@ -75,6 +75,34 @@
         {
             "key" : "DAY_1_DESCRIBE_6",
             "value" : "But I don't remember which one anymore"
+        },
+        {
+            "key" : "DAY_2",
+            "value" : "3 June"
+        },
+        {
+            "key" : "DAY_2_DESCRIBE_1",
+            "value" : "I was getting worse"
+        },
+        {
+            "key" : "DAY_2_DESCRIBE_2",
+            "value" : "In a couple of days"
+        },
+        {
+            "key" : "DAY_2_DESCRIBE_3",
+            "value" : "This started to happen"
+        },
+        {
+            "key" : "DAY_2_DESCRIBE_4",
+            "value" : "I don't understand what's going on yet"
+        },
+        {
+            "key" : "DAY_2_DESCRIBE_5",
+            "value" : "I started hearing strange noises"
+        },
+        {
+            "key" : "DAY_2_DESCRIBE_6",
+            "value" : "And returned to old habits"
         }
     ]
 }
