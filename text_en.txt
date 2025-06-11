@@ -34,7 +34,7 @@
         },
         {
             "key" : "LOADING",
-            "value" : "LOADING"
+            "value" : "LOADING..."
         },
         {
             "key" : "YES",
@@ -49,8 +49,32 @@
             "value" : "Press 'Space' to continue"
         },
         {
-            "key" : "Q_DROP",
-            "value" : "Press 'Q' to drop"
+            "key" : "DAY_1",
+            "value" : "1 June"
+        },
+        {
+            "key" : "DAY_1_DESCRIBE_1",
+            "value" : "This happened recently"
+        },
+        {
+            "key" : "DAY_1_DESCRIBE_2",
+            "value" : "About a month ago..."
+        },
+        {
+            "key" : "DAY_1_DESCRIBE_3",
+            "value" : "No, even earlier"
+        },
+        {
+            "key" : "DAY_1_DESCRIBE_4",
+            "value" : "That day I went to see a psychiatrist"
+        },
+        {
+            "key" : "DAY_1_DESCRIBE_5",
+            "value" : "He diagnosed me"
+        },
+        {
+            "key" : "DAY_1_DESCRIBE_6",
+            "value" : "But I don't remember which one anymore"
         }
     ]
 }
