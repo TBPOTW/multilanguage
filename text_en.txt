@@ -18,7 +18,7 @@
         },
         {
             "key" : "QUIT",
-            "value" : "QUIT"
+            "value" : "QUIT GAME"
         },
         {
             "key" : "RESUME",
@@ -47,6 +47,10 @@
         {
             "key" : "SPACE_CONTINUE",
             "value" : "Press 'Space' to continue"
+        },
+        {
+            "key" : "ANY_KEY",
+            "value" : "Press any key to continue"
         },
         {
             "key" : "DAY_1",
@@ -103,6 +107,34 @@
         {
             "key" : "DAY_2_DESCRIBE_6",
             "value" : "And returned to old habits"
+        },
+        {
+            "key" : "DAY_3",
+            "value" : "5 June"
+        },
+        {
+            "key" : "DAY_3_DESCRIBE_1",
+            "value" : "I was getting worse and worse"
+        },
+        {
+            "key" : "DAY_3_DESCRIBE_2",
+            "value" : "I started to forget more and more"
+        },
+        {
+            "key" : "DAY_3_DESCRIBE_3",
+            "value" : "And I began to see what wasn't there"
+        },
+        {
+            "key" : "DAY_3_DESCRIBE_4",
+            "value" : "I'm afraid I won't remember anything soon"
+        },
+        {
+            "key" : "DAY_3_DESCRIBE_5",
+            "value" : "Neither friends nor relatives"
+        },
+        {
+            "key" : "DAY_3_DESCRIBE_6",
+            "value" : "No one"
         }
     ]
 }
