@@ -50,7 +50,11 @@
         },
         {
             "key" : "ANY_KEY",
-            "value" : "Press any key to continue"
+            "value" : "Press any key"
+        },
+        {
+            "key" : "PAUSE",
+            "value" : "PAUSE"
         },
         {
             "key" : "DAY_1",
@@ -135,6 +139,34 @@
         {
             "key" : "DAY_3_DESCRIBE_6",
             "value" : "No one"
+        },
+        {
+            "key" : "DAY_4",
+            "value" : "9 June"
+        },
+        {
+            "key" : "DAY_4_DESCRIBE_1",
+            "value" : "I haven't left the house for a long time"
+        },
+        {
+            "key" : "DAY_4_DESCRIBE_2",
+            "value" : "There is quite a lot of rubbish accumulated in the apartment"
+        },
+        {
+            "key" : "DAY_4_DESCRIBE_3",
+            "value" : "I forget more and more"
+        },
+        {
+            "key" : "DAY_4_DESCRIBE_4",
+            "value" : "It feels like I'm starting to forget the words"
+        },
+        {
+            "key" : "DAY_4_DESCRIBE_5",
+            "value" : "What I could easily describe before"
+        },
+        {
+            "key" : "DAY_4_DESCRIBE_6",
+            "value" : "Now it's causing problems with word choice"
         }
     ]
 }
