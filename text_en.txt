@@ -207,6 +207,10 @@
         {
             "key" : "FLASHBACK_DESCRIBE_3",
             "value" : "We decided to take a break outside the city"
+        },
+        {
+            "key" : "WRONG_DIRECTUION",
+            "value" : "IN THE WRONG DIRECTUION"
         }
     ]
 }

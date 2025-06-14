@@ -207,6 +207,10 @@
         {
             "key" : "FLASHBACK_DESCRIBE_3",
             "value" : "Мы решили отдохнуть за городом"
+        },
+        {
+            "key" : "WRONG_DIRECTUION",
+            "value" : "НЕ В ТУ СТОРОНУ"
         }
     ]
 }
