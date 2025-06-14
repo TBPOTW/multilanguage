@@ -167,6 +167,46 @@
         {
             "key" : "DAY_4_DESCRIBE_6",
             "value" : "Now it's causing problems with word choice"
+        },
+        {
+            "key" : "DAY_5",
+            "value" : "1 October"
+        },
+        {
+            "key" : "DAY_5_DESCRIBE_1",
+            "value" : "..."
+        },
+        {
+            "key" : "DAY_6",
+            "value" : "3 December"
+        },
+        {
+            "key" : "DAY_6_DESCRIBE_1",
+            "value" : "I need to see a psychiatrist"
+        },
+        {
+            "key" : "DREAM",
+            "value" : "1 October"
+        },
+        {
+            "key" : "DREAM_DESCRIBE_1",
+            "value" : "Everything is like in a fog"
+        },
+        {
+            "key" : "FLASHBACK",
+            "value" : "Last summer"
+        },
+        {
+            "key" : "FLASHBACK_DESCRIBE_1",
+            "value" : "I remember it like it was yesterday"
+        },
+        {
+            "key" : "FLASHBACK_DESCRIBE_2",
+            "value" : "It was a hot summer day then"
+        },
+        {
+            "key" : "FLASHBACK_DESCRIBE_3",
+            "value" : "We decided to take a break outside the city"
         }
     ]
 }

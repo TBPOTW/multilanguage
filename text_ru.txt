@@ -167,6 +167,46 @@
         {
             "key" : "DAY_4_DESCRIBE_6",
             "value" : "Сейчас вызывает проблемы с подбором слов"
+        },
+        {
+            "key" : "DAY_5",
+            "value" : "1 октября"
+        },
+        {
+            "key" : "DAY_5_DESCRIBE_1",
+            "value" : "..."
+        },
+        {
+            "key" : "DAY_6",
+            "value" : "3 декабря"
+        },
+        {
+            "key" : "DAY_6_DESCRIBE_1",
+            "value" : "Мне нужно к психиатру"
+        },
+        {
+            "key" : "DREAM",
+            "value" : "1 октября"
+        },
+        {
+            "key" : "DREAM_DESCRIBE_1",
+            "value" : "Все как в тумане"
+        },
+        {
+            "key" : "FLASHBACK",
+            "value" : "Прошлым летом"
+        },
+        {
+            "key" : "FLASHBACK_DESCRIBE_1",
+            "value" : "Помню как вчера было"
+        },
+        {
+            "key" : "FLASHBACK_DESCRIBE_2",
+            "value" : "Тогда был жаркий день лета"
+        },
+        {
+            "key" : "FLASHBACK_DESCRIBE_3",
+            "value" : "Мы решили отдохнуть за городом"
         }
     ]
 }
