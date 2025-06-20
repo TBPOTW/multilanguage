@@ -114,7 +114,7 @@
         },
         {
             "key" : "DAY_3",
-            "value" : "5 июня"
+            "value" : "4 июня"
         },
         {
             "key" : "DAY_3_DESCRIBE_1",
