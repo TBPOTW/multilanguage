@@ -53,8 +53,16 @@
             "value" : "Список дел"
         },
         {
-            "key" : "CREDITS",
-            "value" : "Программист: Torie\Музыкант: DriadeR\n3D художники: Torie, DriadeR, Abobus"
+            "key" : "CREDITS_MUSIC",
+            "value" : "Музыкант: DriadeR"
+        },
+        {
+            "key" : "CREDITS_ARTIST",
+            "value" : "3D художник: Torie, DriadeR, Abobus"
+        },
+        {
+            "key" : "CREDITS_PROGRAMMER",
+            "value" : "Программис: Torie"
         },
         {
             "key" : "ANY_KEY",

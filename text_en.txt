@@ -53,8 +53,16 @@
             "value" : "To-do list"
         },
         {
-            "key" : "CREDITS",
-            "value" : "Programmer: Torie\nMusician: DriadeR\n3D artist: Torie, DriadeR, Abobus"
+            "key" : "CREDITS_MUSIC",
+            "value" : "Musician: DriadeR"
+        },
+        {
+            "key" : "CREDITS_ARTIST",
+            "value" : "3D artist: Torie, DriadeR, Abobus"
+        },
+        {
+            "key" : "CREDITS_PROGRAMMER",
+            "value" : "Programmer: Torie"
         },
         {
             "key" : "ANY_KEY",
