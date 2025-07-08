@@ -49,6 +49,10 @@
             "value" : "Press 'Space' to continue"
         },
         {
+            "key" : "LANG",
+            "value" : "Choose language"
+        },
+        {
             "key" : "TO-DO_LIST",
             "value" : "To-do list"
         },
