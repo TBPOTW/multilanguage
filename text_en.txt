@@ -37,6 +37,50 @@
             "value" : "LOADING..."
         },
         {
+            "key" : "GAME",
+            "value" : "GAME"
+        },
+        {
+            "key" : "SAVES",
+            "value" : "SAVES"
+        },
+        {
+            "key" : "POST",
+            "value" : "Post-processing"
+        },
+        {
+            "key" : "SHOW_FPS",
+            "value" : "Show FPS"
+        },
+        {
+            "key" : "DELETE_SAVES",
+            "value" : "DELETE ALL SAVES"
+        },
+        {
+            "key" : "GEN_SOUND",
+            "value" : "GENERAL SOUND"
+        },
+        {
+            "key" : "SCREEN",
+            "value" : "SCREEN SETTINGS"
+        },
+        {
+            "key" : "RESOLUTION",
+            "value" : "Resolution"
+        },
+        {
+            "key" : "FULLSCREEN",
+            "value" : "Fullscreen"
+        },
+        {
+            "key" : "QUALITY_SET",
+            "value" : "QUALITY SETTINGS"
+        },
+        {
+            "key" : "QUALITY",
+            "value" : "Quality"
+        },
+        {
             "key" : "YES",
             "value" : "YES"
         },

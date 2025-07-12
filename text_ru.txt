@@ -37,6 +37,50 @@
             "value" : "ЗАГРУЗКА..."
         },
         {
+            "key" : "GAME",
+            "value" : "ИГРА"
+        },
+        {
+            "key" : "SAVES",
+            "value" : "СОХРАНЕНИЯ"
+        },
+        {
+            "key" : "POST",
+            "value" : "Пост-обработка"
+        },
+        {
+            "key" : "SHOW_FPS",
+            "value" : "Показывать FPS"
+        },
+        {
+            "key" : "DELETE_SAVES",
+            "value" : "УДАЛИТЬ СОХРАНЕНИЯ"
+        },
+        {
+            "key" : "GEN_SOUND",
+            "value" : "ОСНОВНОЙ ЗВУК"
+        },
+        {
+            "key" : "SCREEN",
+            "value" : "НАСТРОЙКИ ЭКРАНА"
+        },
+        {
+            "key" : "RESOLUTION",
+            "value" : "Разрешение"
+        },
+        {
+            "key" : "FULLSCREEN",
+            "value" : "Полный экран"
+        },
+        {
+            "key" : "QUALITY_SET",
+            "value" : "Настройки качества"
+        },
+        {
+            "key" : "QUALITY",
+            "value" : "Качество"
+        },
+        {
             "key" : "YES",
             "value" : "ДА"
         },
