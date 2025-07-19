@@ -106,7 +106,7 @@
         },
         {
             "key" : "CREDITS_ARTIST",
-            "value" : "3D artist: Torie, DriadeR, Abobus"
+            "value" : "3D artists: Torie, DriadeR, Abobus"
         },
         {
             "key" : "CREDITS_PROGRAMMER",
@@ -119,6 +119,26 @@
         {
             "key" : "PAUSE",
             "value" : "PAUSE"
+        },
+        {
+            "key" : "GENERAL",
+            "value" : "GENERAL"
+        },
+        {
+            "key" : "VIDEO",
+            "value" : "VIDEO"
+        },
+        {
+            "key" : "AUDIO",
+            "value" : "AUDIO"
+        },
+        {
+            "key" : "CONTROLS",
+            "value" : "CONTROLS"
+        },
+        {
+            "key" : "BACK",
+            "value" : "BACK"
         },
         {
             "key" : "DAY_1",
