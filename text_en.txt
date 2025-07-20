@@ -141,6 +141,34 @@
             "value" : "BACK"
         },
         {
+            "key" : "STUDY_MOVE",
+            "value" : "WASD - move"
+        },
+        {
+            "key" : "STUDY_INTERACT",
+            "value" : "E, LMB - interact"
+        },
+        {
+            "key" : "STUDY_DROP",
+            "value" : "Q - drop"
+        },
+        {
+            "key" : "STUDY_QUESTS",
+            "value" : "Tab - quests"
+        },
+        {
+            "key" : "STUDY_PAUSE",
+            "value" : "Escape - pause"
+        },
+        {
+            "key" : "TASK_COMPLETED",
+            "value" : "Task completed"
+        },
+        {
+            "key" : "TASK_TAB",
+            "value" : "Press 'Tab' to view quests list"
+        },
+        {
             "key" : "DAY_1",
             "value" : "1 June"
         },

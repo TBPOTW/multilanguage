@@ -141,6 +141,34 @@
             "value" : "УПРАВЛЕНИЕ"
         },
         {
+            "key" : "STUDY_MOVE",
+            "value" : "WASD - ходьба"
+        },
+        {
+            "key" : "STUDY_INTERACT",
+            "value" : "E, LMB - взаимодействие"
+        },
+        {
+            "key" : "STUDY_DROP",
+            "value" : "Q - бросить"
+        },
+        {
+            "key" : "STUDY_QUESTS",
+            "value" : "Tab - задания"
+        },
+        {
+            "key" : "STUDY_PAUSE",
+            "value" : "Escape - пауза"
+        },
+        {
+            "key" : "TASK_COMPLETED",
+            "value" : "Задание выполнено"
+        },
+        {
+            "key" : "TASK_TAB",
+            "value" : "Нажмите 'Tab' чтобы посмотреть список заданий"
+        },
+        {
             "key" : "DAY_1",
             "value" : "1 июня"
         },
