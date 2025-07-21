@@ -109,6 +109,10 @@
             "value" : "Musician: DriadeR"
         },
         {
+            "key" : "CREDITS_THANKS",
+            "value" : "Thanks to: Konst misch, Dima"
+        },
+        {
             "key" : "CREDITS_ARTIST",
             "value" : "3D artists: Torie, DriadeR, Abobus"
         },

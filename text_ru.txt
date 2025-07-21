@@ -113,6 +113,10 @@
             "value" : "Музыкант: DriadeR"
         },
         {
+            "key" : "CREDITS_THANKS",
+            "value" : "Спасибо: Konst misch, Dima"
+        },
+        {
             "key" : "CREDITS_ARTIST",
             "value" : "3D художники: Torie, DriadeR, Abobus"
         },
