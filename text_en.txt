@@ -89,6 +89,10 @@
             "value" : "NO"
         },
         {
+            "key" : "PUT_THE_PIE",
+            "value" : "I need to put the pie in the oven"
+        },
+        {
             "key" : "SPACE_CONTINUE",
             "value" : "Press 'Space' to continue"
         },
@@ -162,7 +166,7 @@
         },
         {
             "key" : "TASK_COMPLETED",
-            "value" : "Task completed"
+            "value" : "Task completed!"
         },
         {
             "key" : "TASK_TAB",
