@@ -110,19 +110,19 @@
         },
         {
             "key" : "CREDITS_MUSIC",
-            "value" : "Музыкант: DriadeR"
+            "value" : "Музыкант:"
         },
         {
             "key" : "CREDITS_THANKS",
-            "value" : "Спасибо: Konst misch, Dima"
+            "value" : "Спасибо:"
         },
         {
             "key" : "CREDITS_ARTIST",
-            "value" : "3D художники: Torie, DriadeR, Abobus"
+            "value" : "3D художники:"
         },
         {
             "key" : "CREDITS_PROGRAMMER",
-            "value" : "Программист: Torie"
+            "value" : "Программист:"
         },
         {
             "key" : "ANY_KEY",

@@ -106,19 +106,19 @@
         },
         {
             "key" : "CREDITS_MUSIC",
-            "value" : "Musician: DriadeR"
+            "value" : "Musician:"
         },
         {
             "key" : "CREDITS_THANKS",
-            "value" : "Thanks to: Konst misch, Dima"
+            "value" : "Thanks to:"
         },
         {
             "key" : "CREDITS_ARTIST",
-            "value" : "3D artists: Torie, DriadeR, Abobus"
+            "value" : "3D artists:"
         },
         {
             "key" : "CREDITS_PROGRAMMER",
-            "value" : "Programmer: Torie"
+            "value" : "Programmer:"
         },
         {
             "key" : "ANY_KEY",
