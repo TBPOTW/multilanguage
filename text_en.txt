@@ -121,6 +121,10 @@
             "value" : "Programmer:"
         },
         {
+            "key" : "CREDITS_THANK_U",
+            "value" : "Thanks for playing!"
+        },
+        {
             "key" : "ANY_KEY",
             "value" : "Press any key"
         },
