@@ -335,6 +335,90 @@
         {
             "key" : "WRONG_DIRECTUION",
             "value" : "НЕ В ТУ СТОРОНУ"
+        },
+        {
+            "key" : "coffeeQuest",
+            "value" : "Выпить кофе"
+        },
+        {
+            "key" : "trashQuest",
+            "value" : "Вынести мусор"
+        },
+        {
+            "key" : "wateringFlowers",
+            "value" : "Полить все цветы в доме"
+        },
+        {
+            "key" : "collectItemsInBoxes",
+            "value" : "Упаковать вещи в коробки"
+        },
+        {
+            "key" : "walk",
+            "value" : "Прогуляться"
+        },
+        {
+            "key" : "talkNeighbour",
+            "value" : "Прогуляться"
+        },
+        {
+            "key" : "ThrowAwayTrash",
+            "value" : "Собрать весь мусор в мусорный мешок."
+        },
+        {
+            "key" : "buyProducts",
+            "value" : "Купить продукты"
+        },
+        {
+            "key" : "OpenTheDoor",
+            "value" : "Открыть дверь"
+        },
+        {
+            "key" : "DrinkAlcohol",
+            "value" : "Выпить алкоголь"
+        },
+        {
+            "key" : "recipesBook",
+            "value" : "Взять книгу рецептов"
+        },
+        {
+            "key" : "cookCake",
+            "value" : "Приготовить пирог"
+        },
+        {
+            "key" : "FriendMeet",
+            "value" : "Встретить друга во сне"
+        },
+        {
+            "key" : "GoKitchen",
+            "value" : "Сходить на кухню"
+        },
+        {
+            "key" : "GoToilet",
+            "value" : "Сходить в туалет"
+        },
+        {
+            "key" : "GoLiving",
+            "value" : "Сходить в гостиную"
+        },
+        {
+            "key" : "GoHall",
+            "value" : "Сходить в коридор"
+        },
+        {
+            "key" : "TalkWithFriend",
+            "value" : "Поговорить с другом"
+        },
+        {
+            "key" : "PutGrill",
+            "value" : "Поставить мангал на улицу "
+        },
+        {
+            "key" : "TakePhoto",
+            "value" : "Сделать фотографию на память"
+        },
+        {
+            "key" : "PutCamera",
+            "value" : "Поставить камеру"
         }
     ]
 }

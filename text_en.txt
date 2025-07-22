@@ -334,7 +334,91 @@
         },
         {
             "key" : "WRONG_DIRECTUION",
-            "value" : "IN THE WRONG DIRECTUION"
+            "value" : "IN THE WRONG DIRECTION"
+        },
+        {
+            "key" : "coffeeQuest",
+            "value" : "Have some coffee"
+        },
+        {
+            "key" : "trashQuest",
+            "value" : "Take out the trash"
+        },
+        {
+            "key" : "wateringFlowers",
+            "value" : "Water all the flowers in the house"
+        },
+        {
+            "key" : "collectItemsInBoxes",
+            "value" : "Pack things into boxes"
+        },
+        {
+            "key" : "walk",
+            "value" : "Take a walk"
+        },
+        {
+            "key" : "talkNeighbour",
+            "value" : "Take a walk"
+        },
+        {
+            "key" : "ThrowAwayTrash",
+            "value" : "Collect all the trash in a trash bag"
+        },
+        {
+            "key" : "buyProducts",
+            "value" : "Buy products"
+        },
+        {
+            "key" : "OpenTheDoor",
+            "value" : "Open the door"
+        },
+        {
+            "key" : "DrinkAlcohol",
+            "value" : "Drink alcohol"
+        },
+        {
+            "key" : "recipesBook",
+            "value" : "Take the recipe book"
+        },
+        {
+            "key" : "cookCake",
+            "value" : "Make a pie"
+        },
+        {
+            "key" : "FriendMeet",
+            "value" : "Meet a friend in a dream"
+        },
+        {
+            "key" : "GoKitchen",
+            "value" : "Go to the kitchen"
+        },
+        {
+            "key" : "GoToilet",
+            "value" : "Go to the toilet"
+        },
+        {
+            "key" : "GoLiving",
+            "value" : "Go to the living room"
+        },
+        {
+            "key" : "GoHall",
+            "value" : "Go to the hall"
+        },
+        {
+            "key" : "TalkWithFriend",
+            "value" : "Talk to a friend"
+        },
+        {
+            "key" : "PutGrill",
+            "value" : "Put the grill outside"
+        },
+        {
+            "key" : "TakePhoto",
+            "value" : "Take a photo as a keepsake"
+        },
+        {
+            "key" : "PutCamera",
+            "value" : "Place a camera"
         }
     ]
 }
