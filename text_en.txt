@@ -419,6 +419,10 @@
         {
             "key" : "PutCamera",
             "value" : "Place a camera"
+        },
+        {
+            "key" : "pieRecipe",
+            "value" : "Add milk\nAdd sugar\nAdd salt\nAdd flour\nAdd eggs"
         }
     ]
 }
