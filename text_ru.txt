@@ -421,11 +421,11 @@
             "value" : "Поставить камеру"
         },
         {
-            "key" : "pieRecipeTitle",
-            "value" : "Рецепт пирога"
+            "key" : "PIE_RECIPE_TITLE",
+            "value" : "Pie recipe"
         },
         {
-            "key" : "pieRecipe",
+            "key" : "PIE_RECIPE",
             "value" : "Добавить молоко\nДобавить сахар\nДобавить соль\nДобавить муку\nДобавить яйца"
         }
     ]
