@@ -422,7 +422,7 @@
         },
         {
             "key" : "PIE_RECIPE_TITLE",
-            "value" : "Pie recipe"
+            "value" : "Рецепт пирога"
         },
         {
             "key" : "PIE_RECIPE",
