@@ -421,8 +421,12 @@
             "value" : "Place a camera"
         },
         {
+            "key" : "pieRecipeTitle",
+            "value" : "Pie recipe"
+        },
+        {
             "key" : "pieRecipe",
-            "value" : "Add milk\nAdd sugar\nAdd salt\nAdd flour\nAdd eggs"
+            "value" : "Добавить молоко\nДобавить сахар\nДобавить соль\nДобавить муку\nДобавить яйца"
         }
     ]
 }
