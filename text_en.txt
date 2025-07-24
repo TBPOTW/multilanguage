@@ -97,6 +97,10 @@
             "value" : "Press 'Space' to continue"
         },
         {
+            "key" : "THROW_BTN",
+            "value" : "Throw away the trash"
+        },
+        {
             "key" : "LANG",
             "value" : "Choose language"
         },
