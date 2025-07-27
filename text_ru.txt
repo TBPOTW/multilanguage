@@ -61,8 +61,12 @@
             "value" : "УДАЛИТЬ СОХРАНЕНИЯ"
         },
         {
-            "key" : "GEN_SOUND",
-            "value" : "ОСНОВНОЙ ЗВУК"
+            "key" : "MUSIC_SOUND",
+            "value" : "МУЗЫКА"
+        },
+        {
+            "key" : "SOUNDS_SOUND",
+            "value" : "ЗВУКИ"
         },
         {
             "key" : "SCREEN",

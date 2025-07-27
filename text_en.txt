@@ -57,8 +57,12 @@
             "value" : "DELETE ALL SAVES"
         },
         {
-            "key" : "GEN_SOUND",
-            "value" : "GENERAL SOUND"
+            "key" : "MUSIC_SOUND",
+            "value" : "MUSIC"
+        },
+        {
+            "key" : "SOUNDS_SOUND",
+            "value" : "SOUNDS"
         },
         {
             "key" : "SCREEN",
