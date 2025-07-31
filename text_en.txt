@@ -85,6 +85,10 @@
             "value" : "Quality"
         },
         {
+            "key" : "SENS",
+            "value" : "SENSITIVITY"
+        },
+        {
             "key" : "YES",
             "value" : "YES"
         },
@@ -411,6 +415,10 @@
         {
             "key" : "GoHall",
             "value" : "Go to the hall"
+        },
+        {
+            "key" : "GoPantry",
+            "value" : "Go to the pantry"
         },
         {
             "key" : "TalkWithFriend",
